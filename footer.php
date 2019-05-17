@@ -1,0 +1,1 @@
+<center>Aplikasi Toko Buku Online (BOOKU) &copy 2017 </center>
